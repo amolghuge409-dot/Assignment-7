@@ -2,6 +2,9 @@
 
 A React app to record personal expenses and review monthly spending by category.
 
+Features include expense entry and deletion, month filtering, spending summaries,
+a daily spending chart, and category totals.
+
 ## Run locally
 
 ```bash
